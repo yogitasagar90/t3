@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    width: 300px;
+    height: 350px;
+    border: 3px solid black;
+    margin: 60px 0 0 200px;
+    border-radius: 3px;
+}
+
+.head {
+    margin-left: 15px;
+}
+
+.sh {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.sh input {
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 60px;
+    margin-left: 15px;
+    margin-top: 7px;
+    margin-bottom: 25px;
+    width: 250px;
+    border: 2px solid black;
+}
+
+.sd {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.sd textarea {
+    border-radius: 2px;
+    margin-right: 60px;
+    margin-left: 15px;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    height: 80PX;
+    width: 250px;
+    border: 2px solid black;
+}
+
+.btn {
+    margin-left: 15px;
+    background-color: rgb(80, 80, 252);
+    width: 250px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 2px;
+    box-shadow: 0 5px 10px 0 black;
+    cursor: pointer;
+    color: white;
+}
+.ss{
+    width: 500px;
+    height: 20px;
+}
+.tt{
+    width: 500px;
+    height: 100px;
+}
+.box{
+    position: relative;
+    margin-top: -330px;
+    margin-right: 200px;
+    float: right;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 3px;
+    height: max-content;
+}
